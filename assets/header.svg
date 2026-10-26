@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Neel Avalareddy — AI systems and developer tools</title><desc id="desc">A black and gold editorial banner with a geometric network motif.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#24262b" stroke-width=".6"/></pattern><linearGradient id="fade"><stop stop-color="#cfb991" stop-opacity=".65"/><stop offset="1" stop-color="#cfb991" stop-opacity=".1"/></linearGradient></defs>
+<rect width="1200" height="340" rx="16" fill="#101115"/><rect width="1200" height="340" rx="16" fill="url(#grid)"/>
+<path d="M0 0H1200" stroke="#cfb991" stroke-width="5"/>
+<text x="58" y="66" fill="#cfb991" font-family="monospace" font-size="14" letter-spacing="4">NEELAVALAREDDY / BUILD LOG</text>
+<text x="54" y="152" fill="#f4f1eb" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Neel Avalareddy.</text>
+<text x="58" y="204" fill="#b8bac2" font-family="Arial,Helvetica,sans-serif" font-size="23">AI systems. Developer tools. Useful software.</text>
+<path d="M58 241H640" stroke="#34353c"/>
+<text x="58" y="280" fill="#cfb991" font-family="monospace" font-size="14" letter-spacing="2">ARTIFICIAL INTELLIGENCE @ PURDUE</text>
+<g fill="none" stroke="url(#fade)" stroke-width="1.5"><path d="M850 86L1015 60L1130 172L1015 280L850 250L790 170Z"/><path d="M850 86L1015 280M1015 60L850 250M790 170L1130 172M850 86L1130 172L850 250L1015 60L1015 280Z"/></g>
+<g fill="#cfb991"><circle cx="850" cy="86" r="5"/><circle cx="1015" cy="60" r="5"/><circle cx="1130" cy="172" r="5"/><circle cx="1015" cy="280" r="5"/><circle cx="850" cy="250" r="5"/><circle cx="790" cy="170" r="5"/></g></svg>
